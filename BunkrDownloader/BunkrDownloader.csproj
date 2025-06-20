@@ -11,6 +11,7 @@
     <PackageReference Include="HtmlAgilityPack" Version="1.12.1" />
     <PackageReference Include="RestSharp" Version="112.1.0" />
     <PackageReference Include="ShellProgressBar" Version="5.2.0" />
+    <PackageReference Include="Spectre.Console" Version="0.50.0" />
   </ItemGroup>
 
 </Project>

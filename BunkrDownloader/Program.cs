@@ -15,6 +15,7 @@ class Program
         var downloader = new Downloader(client, config);
         await downloader.RunAsync();
         Console.WriteLine("All done.");
+        Console.ReadLine();
     }
 }
 
