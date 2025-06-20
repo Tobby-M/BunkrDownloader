@@ -1,6 +1,4 @@
-﻿//string url = "https://bunkr.cr/a/tYhcuHNh"
-
-using BunkrDownloader.Classes;
+﻿using BunkrDownloader.Classes;
 
 class Program
 {
